@@ -1,8 +1,4 @@
-<<<<<<< HEAD
- 
- Intro: I am Bara'ah Bsharat 24 years old, a rehabilitation member who trying to use the technology as a facilitators for people with diabilites as much as possibe!
-My GitHub: https://github.com/Baraahbsharat
-=======
+
 # Intro : 
 ## I am Bara'ah Bsharat 24 years old, a rehabilitation member who trying to use the technology as a facilitators for people with diabilites as much as possibe!
 ## My GutHup: 
@@ -18,5 +14,5 @@ Extra |Growth Minset |[ Growth Mindset](https://github.com/Baraahbsharat/reading
 
 
 
->>>>>>> 170350c3b89606021bf96f2ba80171890c196c68
+
 
