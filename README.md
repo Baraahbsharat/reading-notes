@@ -6,8 +6,8 @@
 # Table of Content 
 Read NO.     | Read Name     | Read Repo
 ------------ | ------------- | ------------
-Read 1 |The coder's computer |
-Read 2 | Learning Markdown |
+Read 1 |The coder's computer |[Read 1] (https://github.com/Baraahbsharat/reading-notes/blob/main/Read1.md)
+Read 2 | Learning Markdown |[Read 2]
 Read 3 | Revisions and the cloud|
 Extra |Growth Minset |
 
