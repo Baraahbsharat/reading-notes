@@ -1,1 +1,5 @@
+Markdown is a way to give our text a specific style in the web. GitHub using it's own version of markdown and it can be used at various points during writing like at Gists and comments. We can make the text bold or italic  the lists can be numbered or with bullet points, and we can add images or change the size of different headings.GitHub allowed us to give a style to the codes and there is a specific guide to follow in order to deal with it. 
 
+We can use the GitHub pages to help people, or find a job or make changes by sharing our ideas and projects, also we can use Jakell as an open recourse to transform text file into website. Using Git we can modify our pages before publishing also.   
+
+Examples on the basic writing and formatting syntax we can added # before the heading to change it's size, we can use * or - to make the text bold or italic, also we can quote a text by typing r after highliting it. In addition to that we can use the backticks to quote codes or add links using (). We can either make our lists ordered by starting with numbers or unordered by starting with * or -.It's Kind also that we can add emoji using a specific code.
