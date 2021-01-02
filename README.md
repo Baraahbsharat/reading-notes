@@ -10,12 +10,27 @@ My GitHub: https://github.com/Baraahbsharat
 ##  [GitHub page](https://github.com/Baraahbsharat)
 <h1> Code 102 Reading Notes </h1>
 # Table of Content 
-Read NO.     | Read Name     | Read Repo
------------- | ------------- | ------------
-Read 1 |The coder's computer |[Read 1](https://baraahbsharat.github.io/reading-notes/Read1)
-Read 2 | Learning Markdown |[Read 2](https://baraahbsharat.github.io/reading-notes/Read2)
-Read 3 | Revisions and the cloud|[ Read 3](https://baraahbsharat.github.io/reading-notes/Read3)
-Extra |Growth Minset |[ Growth Mindset](https://baraahbsharat.github.io/reading-notes/Extra) 
+
+
+[Read-1](https://baraahbsharat.github.io/reading-notes/Read1)
+
+[Read-2](https://baraahbsharat.github.io/reading-notes/Read2)
+
+[Read-3](https://baraahbsharat.github.io/reading-notes/Read3)
+
+[Growth-Mindset](https://baraahbsharat.github.io/reading-notes/Extra)
+
+[Read-4](https://baraahbsharat.github.io/reading-notes/Read4.md)
+
+[Read-5](https://baraahbsharat.github.io/reading-notes/Read5)
+
+[Read-6a](https://baraahbsharat.github.io/reading-notes/Read6a)
+
+[Read-6b](https://baraahbsharat.github.io/reading-notes/Read6b)
+
+[Read-7](https://baraahbsharat.github.io/reading-notes/Read7)
+
+[Read-8](https://baraahbsharat.github.io/reading-notes/Read8.md)
 
 <h1> Code 201 Reading Notes </h1>
 
