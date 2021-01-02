@@ -19,7 +19,7 @@ Extra |Growth Minset |[ Growth Mindset](https://baraahbsharat.github.io/reading-
 
 <h1> Code 201 Reading Notes </h1>
 
-[class-01](link)
+[class-01](https://baraahbsharat.github.io/reading-notes/class-01)
 
 [class-02](link)
 
