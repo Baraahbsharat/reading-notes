@@ -2,9 +2,9 @@
 <p>Tags added to the content in html document to provide additional information, this is known as markup, there are two types of them, structural markup that describe the headings and paragraphs and semantic markup that add extra information without changing the page's structure. The following list contain examples of these tags with their meanings:
 <ul>
 <li < h1 >,< h2 >...< h6 > are headings with different size, the largest one is h1></li>
-<li <p> used to create a paragraph- <b> and </b> make the character bold and we can use <b> to visually present a section in different way.></li>
-<li <i> </i> make the character italic and <i> used to present the section in the text that should be said in a different way.></li> 
-<li <sup> contain superscript characters while <sub> contain subscript characters></li>
+<li <p> used to create a paragraph- < b > and < /b > make the character bold and we can use < b > to visually present a section in different way.></li>
+<li <i> </ i > make the character italic and < i > used to present the section in the text that should be said in a different way.></li> 
+<li <sup> contain superscript characters while < sub > contain subscript characters></li>
 <li < br/> used to add a line break within a paragraph ></li>
 <li <hr/> used to add horizontal rule between sections ></li>
 <li <strong> indicates that the content has strong important></li>
