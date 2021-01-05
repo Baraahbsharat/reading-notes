@@ -36,7 +36,7 @@ My GitHub: https://github.com/Baraahbsharat
 
 [class-01](https://baraahbsharat.github.io/reading-notes/class-01)
 
-[class-02](link)
+[class-02](https://baraahbsharat.github.io/reading-notes/class02)
 
 [class-03](link)
 
