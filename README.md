@@ -40,7 +40,7 @@ My GitHub: https://github.com/Baraahbsharat
 
 [class-03](https://baraahbsharat.github.io/reading-notes/read03)
 
-[class-04](link)
+[class-04](https://baraahbsharat.github.io/reading-notes/Read05)
 
 [class-05](link)
 
